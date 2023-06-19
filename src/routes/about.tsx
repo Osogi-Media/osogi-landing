@@ -8,13 +8,8 @@ export default function AboutPage() {
         <ArticleContent title="About">
           {/* prettier-ignore */}
           <p>
-            Holly is a free HTML/CSS landing page designed and developed by <a href="https://twitter.com/pacovitiello">@pacovitiello</a> and <a href="https://twitter.com/DavidePacilio">@DavidePacilio</a>!
+            Osogi is a platform that helps rental owners find great products for their properties. When renters make a purchase they learned about through the property, owners get an affiliate kick-back! Reach out to info@osogimedia.com for more information.
           </p>
-          <p>
-            Holly is suitable for all kind of startups, it's easily
-            customizable, and it's downloadable for personal and commercial use.
-          </p>
-          <p>This template is distributed under the MIT License.</p>
         </ArticleContent>
 
         <ArticleMedia>

@@ -1322,10 +1322,6 @@ select {
   --tw-border-opacity: 1;
   border-color: rgb(199 210 254 / var(--tw-border-opacity));
 }
-.border-gray-200 {
-  --tw-border-opacity: 1;
-  border-color: rgb(226 232 240 / var(--tw-border-opacity));
-}
 .bg-gray-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(241 245 249 / var(--tw-bg-opacity));

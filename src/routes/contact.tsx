@@ -6,7 +6,7 @@ export default function ContactPage() {
     <Layout>
       <Article>
         <ArticleContent title="Contact">
-          Add your contact information here.
+          info@osogimedia.com
         </ArticleContent>
 
         <ArticleMedia>

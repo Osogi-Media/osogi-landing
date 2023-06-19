@@ -15,7 +15,7 @@ export default function App() {
    * @link https://vitejs.dev/guide/env-and-mode.html
    */
   const basename = import.meta.env.BASE_URL
-
+  // const basename = "products"
   return (
     <BrowserRouter basename={basename}>
       <ScrollToTop>
